@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hassanAlihafiz.github.io/reactproject2/static/css/main.94320a43.chunk.css",
+    "main.js": "/hassanAlihafiz.github.io/reactproject2/static/js/main.baae3aa7.chunk.js",
+    "main.js.map": "/hassanAlihafiz.github.io/reactproject2/static/js/main.baae3aa7.chunk.js.map",
+    "runtime-main.js": "/hassanAlihafiz.github.io/reactproject2/static/js/runtime-main.858018c5.js",
+    "runtime-main.js.map": "/hassanAlihafiz.github.io/reactproject2/static/js/runtime-main.858018c5.js.map",
+    "static/js/2.89db4e8d.chunk.js": "/hassanAlihafiz.github.io/reactproject2/static/js/2.89db4e8d.chunk.js",
+    "static/js/2.89db4e8d.chunk.js.map": "/hassanAlihafiz.github.io/reactproject2/static/js/2.89db4e8d.chunk.js.map",
+    "index.html": "/hassanAlihafiz.github.io/reactproject2/index.html",
+    "precache-manifest.074c90349d4643686f5c9c8a8c899b31.js": "/hassanAlihafiz.github.io/reactproject2/precache-manifest.074c90349d4643686f5c9c8a8c899b31.js",
+    "service-worker.js": "/hassanAlihafiz.github.io/reactproject2/service-worker.js",
+    "static/css/main.94320a43.chunk.css.map": "/hassanAlihafiz.github.io/reactproject2/static/css/main.94320a43.chunk.css.map",
+    "static/js/2.89db4e8d.chunk.js.LICENSE.txt": "/hassanAlihafiz.github.io/reactproject2/static/js/2.89db4e8d.chunk.js.LICENSE.txt",
+    "static/media/vs.png": "/hassanAlihafiz.github.io/reactproject2/static/media/vs.27b23a52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.858018c5.js",
+    "static/js/2.89db4e8d.chunk.js",
+    "static/css/main.94320a43.chunk.css",
+    "static/js/main.baae3aa7.chunk.js"
+  ]
+}
